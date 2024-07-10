@@ -1,0 +1,113 @@
+/**********************************************************************ANA SAYFA**********************************************************************************/
+#AnaSayfa-h1{
+    color: red;
+    font-size: 64px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-family: "Playwrite PE", cursive;
+}
+/**/
+#AnaSayfa-nav {
+    color: darkmagenta;
+    text-align: center;
+    display: flex; 
+
+}
+/**/
+#AnaSayfa-h3{
+    color:blue;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-family: "Playwrite PE", cursive;
+}
+/**/
+#AnaSayfa-h4{
+    color:rgb(51, 201, 32);
+    font-size: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-family: "Playwrite PE", cursive;
+}
+/**/
+#AnaSayfa-ul-aletler{
+    text-align: center;
+    list-style-position: inside;    
+}
+/*******************************************************************************HAKKIMIZDA******************************************************************************/
+#Hakkımızda-h1{
+    color: red;
+    font-size: 64px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-family: "Playwrite PE", cursive;
+}
+
+/**/
+#Hakkımızda-h2{
+    color:rgb(51, 201, 32);
+    font-size: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-family: "Playwrite PE", cursive;
+}
+/**/
+#Hakkımızda-h3{
+    color:blue;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-family: "Playwrite PE", cursive;
+}
+/**/
+#Hakkımızda-h4-1{
+    color: darkmagenta;
+    font-size: 30px;
+    text-align: center;
+    display: flex; 
+}
+/**/
+#Hakkımızda-h4-2{
+    color: darkmagenta;
+    font-size: 30px;
+    text-align: center;
+    display: flex; 
+}
+/**********************************************************************************ÜRÜNLER*********************************************************************************/
+#ürünler-h1{
+    color: red;
+    font-size: 64px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-family: "Playwrite PE", cursive;
+
+}
+/**/
+#ürünler-nav{
+    color: darkmagenta;
+    text-align:right;
+    display: flex; 
+   
+}
+/**/
+
+#ürünler-h1-1{
+    color:rgb(51, 201, 32);
+    font-size: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align:center;
+    font-family: "Playwrite PE", cursive;
+}
+
+/**/
+#ürünler-ol{
+    text-align: center;
+    list-style-position: inside;    
+}
+/**/
+#ürünler-footer{
+    color: darkmagenta;
+    font-size:medium;
+    text-align: center;
+    display: flex; 
+}
